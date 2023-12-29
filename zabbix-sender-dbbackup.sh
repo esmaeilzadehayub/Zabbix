@@ -1,5 +1,5 @@
 #!/bin/bash
-ZABBIX=m
+ZABBIX=server
 PORT=10051
 KEY=
 HOST=
